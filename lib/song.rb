@@ -51,8 +51,8 @@ class Song
   end
 end
 
-#song = Song.new("a-1","b","g-1")
-#song = Song.new("a-2","b","g-2")
-#song = Song.new("a-3","b","g-3")
-#song = Song.new("a-4","b","g-3")
-#Song.genre_count
+song = Song.new("a-1","b","g-1")
+song = Song.new("a-2","b","g-2")
+song = Song.new("a-3","b","g-3")
+song = Song.new("a-4","b","g-3")
+Song.genre_count
